@@ -1,0 +1,802 @@
+[
+  {
+    "companyName": "Little-Flatley",
+    "brandName": "Squash - Pepper",
+    "address": "Room 1414",
+    "brandStatus": "confirmed",
+    "category": "Fruit Juice",
+    "createdAt": "2023-07-10T05:16:51Z"
+  },
+  {
+    "companyName": "Towne, Roberts and Mayert",
+    "brandName": "Lid - Translucent, 3.5 And 6 Oz",
+    "address": "Suite 44",
+    "brandStatus": "cancelled",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2022-11-02T13:43:05Z"
+  },
+  {
+    "companyName": "Ryan-Pagac",
+    "brandName": "Foie Gras",
+    "address": "Suite 82",
+    "brandStatus": "pending",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2023-02-08T01:59:48Z"
+  },
+  {
+    "companyName": "Heathcote LLC",
+    "brandName": "Soy Protein",
+    "address": "3rd Floor",
+    "brandStatus": "confirmed",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2022-09-17T13:03:13Z"
+  },
+  {
+    "companyName": "Predovic, Ullrich and Rolfson",
+    "brandName": "Milk - Buttermilk",
+    "address": "Room 1949",
+    "brandStatus": "cancelled",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2022-12-02T02:22:28Z"
+  },
+  {
+    "companyName": "Stokes LLC",
+    "brandName": "Wine - White, Lindemans Bin 95",
+    "address": "6th Floor",
+    "brandStatus": "expired",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2023-05-16T15:43:20Z"
+  },
+  {
+    "companyName": "Dickens-Grimes",
+    "brandName": "Currants",
+    "address": "Apt 411",
+    "brandStatus": "pending",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2023-02-08T00:14:37Z"
+  },
+  {
+    "companyName": "Flatley-Harber",
+    "brandName": "Dikon",
+    "address": "PO Box 74729",
+    "brandStatus": "pending",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2022-12-20T10:41:30Z"
+  },
+  {
+    "companyName": "Collins Group",
+    "brandName": "Curry Paste - Madras",
+    "address": "20th Floor",
+    "brandStatus": "cancelled",
+    "category": "White Meat",
+    "createdAt": "2022-09-18T00:04:41Z"
+  },
+  {
+    "companyName": "Collier, Beer and Collier",
+    "brandName": "Nut - Almond, Blanched, Whole",
+    "address": "18th Floor",
+    "brandStatus": "expired",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2023-02-03T15:46:54Z"
+  },
+  {
+    "companyName": "Jaskolski-Boyle",
+    "brandName": "Coconut - Creamed, Pure",
+    "address": "Room 26",
+    "brandStatus": "expired",
+    "category": "White Meat",
+    "createdAt": "2023-02-27T18:15:28Z"
+  },
+  {
+    "companyName": "Stroman, Gislason and Pollich",
+    "brandName": "Carbonated Water - Cherry",
+    "address": "Apt 1848",
+    "brandStatus": "confirmed",
+    "category": "White Meat",
+    "createdAt": "2022-11-06T05:53:45Z"
+  },
+  {
+    "companyName": "Herzog-Wiegand",
+    "brandName": "Whmis Spray Bottle Graduated",
+    "address": "PO Box 29053",
+    "brandStatus": "pending",
+    "category": "Fruit Juice",
+    "createdAt": "2022-11-08T17:56:02Z"
+  },
+  {
+    "companyName": "Waelchi Group",
+    "brandName": "Numi - Assorted Teas",
+    "address": "Suite 11",
+    "brandStatus": "pending",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2023-07-18T01:06:32Z"
+  },
+  {
+    "companyName": "Farrell Group",
+    "brandName": "Lemonade - Pineapple Passion",
+    "address": "PO Box 19099",
+    "brandStatus": "cancelled",
+    "category": "Red Meat",
+    "createdAt": "2022-09-21T23:56:18Z"
+  },
+  {
+    "companyName": "Kovacek-Schowalter",
+    "brandName": "Chicken - Tenderloin",
+    "address": "18th Floor",
+    "brandStatus": "pending",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2022-08-07T17:24:46Z"
+  },
+  {
+    "companyName": "Ebert-Upton",
+    "brandName": "Trout - Rainbow, Fresh",
+    "address": "Room 1655",
+    "brandStatus": "pending",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2022-08-26T13:53:54Z"
+  },
+  {
+    "companyName": "Ratke, Nicolas and Hamill",
+    "brandName": "Lychee - Canned",
+    "address": "Apt 636",
+    "brandStatus": "confirmed",
+    "category": "White Meat",
+    "createdAt": "2023-01-12T17:46:06Z"
+  },
+  {
+    "companyName": "Bogisich, Schimmel and Pagac",
+    "brandName": "Soup - Campbells, Butternut",
+    "address": "PO Box 52980",
+    "brandStatus": "cancelled",
+    "category": "Red Meat",
+    "createdAt": "2023-05-20T07:01:09Z"
+  },
+  {
+    "companyName": "Bruen, Batz and Russel",
+    "brandName": "Gatorade - Lemon Lime",
+    "address": "10th Floor",
+    "brandStatus": "confirmed",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2022-11-08T10:37:23Z"
+  },
+  {
+    "companyName": "Carroll, Gottlieb and Dietrich",
+    "brandName": "Swiss Chard - Red",
+    "address": "Apt 1041",
+    "brandStatus": "cancelled",
+    "category": "Red Meat",
+    "createdAt": "2022-08-05T20:35:49Z"
+  },
+  {
+    "companyName": "Streich LLC",
+    "brandName": "Lettuce - Mini Greens, Whole",
+    "address": "Room 1701",
+    "brandStatus": "pending",
+    "category": "Fruit Juice",
+    "createdAt": "2022-11-02T20:44:54Z"
+  },
+  {
+    "companyName": "Jones Inc",
+    "brandName": "Mushroom - Trumpet, Dry",
+    "address": "PO Box 95649",
+    "brandStatus": "expired",
+    "category": "Fruit Juice",
+    "createdAt": "2023-02-17T21:29:32Z"
+  },
+  {
+    "companyName": "Kemmer-Zboncak",
+    "brandName": "Kale - Red",
+    "address": "Apt 210",
+    "brandStatus": "expired",
+    "category": "White Meat",
+    "createdAt": "2023-05-08T15:38:51Z"
+  },
+  {
+    "companyName": "Willms LLC",
+    "brandName": "Food Colouring - Orange",
+    "address": "3rd Floor",
+    "brandStatus": "pending",
+    "category": "Red Meat",
+    "createdAt": "2023-06-05T02:16:56Z"
+  },
+  {
+    "companyName": "Romaguera LLC",
+    "brandName": "Cheese - Havarti, Roasted Garlic",
+    "address": "Room 1920",
+    "brandStatus": "pending",
+    "category": "Red Meat",
+    "createdAt": "2023-01-13T19:07:48Z"
+  },
+  {
+    "companyName": "Walker, Funk and Hand",
+    "brandName": "Coffee - Irish Cream",
+    "address": "PO Box 39275",
+    "brandStatus": "confirmed",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2023-04-06T06:58:11Z"
+  },
+  {
+    "companyName": "Corkery-Bayer",
+    "brandName": "Lobster - Baby, Boiled",
+    "address": "Apt 816",
+    "brandStatus": "cancelled",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2022-12-12T02:37:08Z"
+  },
+  {
+    "companyName": "McCullough, Hegmann and Leuschke",
+    "brandName": "Thyme - Lemon, Fresh",
+    "address": "15th Floor",
+    "brandStatus": "confirmed",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2023-03-26T21:20:57Z"
+  },
+  {
+    "companyName": "Wiegand, Brakus and Kihn",
+    "brandName": "Croissant, Raw - Mini",
+    "address": "PO Box 348",
+    "brandStatus": "cancelled",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2023-01-16T03:43:03Z"
+  },
+  {
+    "companyName": "Predovic, Swaniawski and Emmerich",
+    "brandName": "Sobe - Berry Energy",
+    "address": "12th Floor",
+    "brandStatus": "confirmed",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2023-03-10T11:38:17Z"
+  },
+  {
+    "companyName": "Gusikowski Group",
+    "brandName": "Grapes - Red",
+    "address": "Apt 1950",
+    "brandStatus": "expired",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2023-01-16T21:36:52Z"
+  },
+  {
+    "companyName": "Sipes, Leannon and Considine",
+    "brandName": "Puree - Mango",
+    "address": "Suite 16",
+    "brandStatus": "confirmed",
+    "category": "White Meat",
+    "createdAt": "2023-06-23T05:30:58Z"
+  },
+  {
+    "companyName": "Schaefer Inc",
+    "brandName": "Oil - Coconut",
+    "address": "2nd Floor",
+    "brandStatus": "cancelled",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2022-10-01T01:55:31Z"
+  },
+  {
+    "companyName": "Hane, Buckridge and Mosciski",
+    "brandName": "Wine - Sogrape Mateus Rose",
+    "address": "17th Floor",
+    "brandStatus": "pending",
+    "category": "Fruit Juice",
+    "createdAt": "2022-08-07T17:22:35Z"
+  },
+  {
+    "companyName": "Koepp LLC",
+    "brandName": "Chips Potato Reg 43g",
+    "address": "Room 1686",
+    "brandStatus": "confirmed",
+    "category": "Fruit Juice",
+    "createdAt": "2022-11-01T20:42:59Z"
+  },
+  {
+    "companyName": "Skiles and Sons",
+    "brandName": "Port - 74 Brights",
+    "address": "PO Box 88068",
+    "brandStatus": "confirmed",
+    "category": "Fruit Juice",
+    "createdAt": "2022-10-19T05:03:01Z"
+  },
+  {
+    "companyName": "Reynolds, Hartmann and Toy",
+    "brandName": "Wine - White, Pelee Island",
+    "address": "Apt 1512",
+    "brandStatus": "cancelled",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2022-10-06T23:17:03Z"
+  },
+  {
+    "companyName": "Cronin LLC",
+    "brandName": "Drambuie",
+    "address": "Suite 41",
+    "brandStatus": "expired",
+    "category": "Red Meat",
+    "createdAt": "2023-02-27T21:33:59Z"
+  },
+  {
+    "companyName": "Beier-Schmidt",
+    "brandName": "Drambuie",
+    "address": "PO Box 35684",
+    "brandStatus": "expired",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2022-09-22T11:18:18Z"
+  },
+  {
+    "companyName": "Dietrich-Schuppe",
+    "brandName": "Coffee - Almond Amaretto",
+    "address": "PO Box 42145",
+    "brandStatus": "confirmed",
+    "category": "Fruit Juice",
+    "createdAt": "2023-04-19T05:42:02Z"
+  },
+  {
+    "companyName": "Roob Inc",
+    "brandName": "Syrup - Chocolate",
+    "address": "Room 397",
+    "brandStatus": "pending",
+    "category": "White Meat",
+    "createdAt": "2023-03-05T06:41:26Z"
+  },
+  {
+    "companyName": "Strosin, Lindgren and Hagenes",
+    "brandName": "Oil - Hazelnut",
+    "address": "Suite 99",
+    "brandStatus": "cancelled",
+    "category": "White Meat",
+    "createdAt": "2023-02-26T07:33:58Z"
+  },
+  {
+    "companyName": "Fahey, Lind and Jacobson",
+    "brandName": "Tomatoes Tear Drop",
+    "address": "PO Box 83467",
+    "brandStatus": "confirmed",
+    "category": "Fruit Juice",
+    "createdAt": "2023-06-09T09:44:28Z"
+  },
+  {
+    "companyName": "Turcotte-Rowe",
+    "brandName": "Raspberries - Frozen",
+    "address": "PO Box 63558",
+    "brandStatus": "pending",
+    "category": "Fruit Juice",
+    "createdAt": "2022-11-22T21:32:50Z"
+  },
+  {
+    "companyName": "Thiel Group",
+    "brandName": "Quail - Whole, Bone - In",
+    "address": "Suite 85",
+    "brandStatus": "pending",
+    "category": "White Meat",
+    "createdAt": "2023-02-17T05:25:05Z"
+  },
+  {
+    "companyName": "Zemlak, Bauch and Gerlach",
+    "brandName": "Temperature Recording Station",
+    "address": "PO Box 73849",
+    "brandStatus": "expired",
+    "category": "Fruit Juice",
+    "createdAt": "2023-02-23T14:16:38Z"
+  },
+  {
+    "companyName": "O'Connell, Larson and Kovacek",
+    "brandName": "Cheese - Perron Cheddar",
+    "address": "4th Floor",
+    "brandStatus": "pending",
+    "category": "Fruit Juice",
+    "createdAt": "2022-10-22T17:43:25Z"
+  },
+  {
+    "companyName": "Greenfelder Group",
+    "brandName": "Venison - Striploin",
+    "address": "Apt 1269",
+    "brandStatus": "confirmed",
+    "category": "Fruit Juice",
+    "createdAt": "2023-01-27T23:53:36Z"
+  },
+  {
+    "companyName": "Dietrich-Cruickshank",
+    "brandName": "Tomatoes Tear Drop",
+    "address": "Room 273",
+    "brandStatus": "cancelled",
+    "category": "Red Meat",
+    "createdAt": "2023-03-27T08:03:45Z"
+  },
+  {
+    "companyName": "Okuneva LLC",
+    "brandName": "Bread - Kimel Stick Poly",
+    "address": "Suite 95",
+    "brandStatus": "cancelled",
+    "category": "White Meat",
+    "createdAt": "2023-04-02T17:39:22Z"
+  },
+  {
+    "companyName": "Reichel LLC",
+    "brandName": "Shrimp - Black Tiger 13/15",
+    "address": "PO Box 89688",
+    "brandStatus": "pending",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2023-07-17T03:12:13Z"
+  },
+  {
+    "companyName": "Kihn-O'Reilly",
+    "brandName": "Tofu - Soft",
+    "address": "PO Box 76929",
+    "brandStatus": "cancelled",
+    "category": "Fruit Juice",
+    "createdAt": "2022-12-05T09:27:37Z"
+  },
+  {
+    "companyName": "Predovic, Lakin and Flatley",
+    "brandName": "Sprouts - Onion",
+    "address": "13th Floor",
+    "brandStatus": "pending",
+    "category": "Red Meat",
+    "createdAt": "2023-05-16T20:40:48Z"
+  },
+  {
+    "companyName": "Schuppe, Bernier and Kertzmann",
+    "brandName": "Cake - Cheese Cake 9 Inch",
+    "address": "20th Floor",
+    "brandStatus": "expired",
+    "category": "White Meat",
+    "createdAt": "2023-01-29T16:53:15Z"
+  },
+  {
+    "companyName": "Raynor Inc",
+    "brandName": "Chicken - Whole Fryers",
+    "address": "Room 982",
+    "brandStatus": "pending",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2023-04-08T14:38:54Z"
+  },
+  {
+    "companyName": "Pouros-Yost",
+    "brandName": "Broom And Broom Rack White",
+    "address": "PO Box 34539",
+    "brandStatus": "cancelled",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2022-08-27T21:22:50Z"
+  },
+  {
+    "companyName": "Bosco-Wolf",
+    "brandName": "Soap - Pine Sol Floor Cleaner",
+    "address": "Suite 59",
+    "brandStatus": "expired",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2023-07-14T08:04:30Z"
+  },
+  {
+    "companyName": "Lebsack-Zboncak",
+    "brandName": "Energy Drink - Redbull 355ml",
+    "address": "PO Box 83780",
+    "brandStatus": "cancelled",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2022-10-17T13:02:09Z"
+  },
+  {
+    "companyName": "Hane-Kreiger",
+    "brandName": "Chick Peas - Dried",
+    "address": "Room 1657",
+    "brandStatus": "confirmed",
+    "category": "Fruit Juice",
+    "createdAt": "2023-01-12T09:07:14Z"
+  },
+  {
+    "companyName": "Hermann LLC",
+    "brandName": "Peach - Halves",
+    "address": "8th Floor",
+    "brandStatus": "confirmed",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2023-06-20T15:48:39Z"
+  },
+  {
+    "companyName": "Kovacek-Romaguera",
+    "brandName": "Cheese - Goat",
+    "address": "Apt 613",
+    "brandStatus": "confirmed",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2023-05-17T14:28:11Z"
+  },
+  {
+    "companyName": "Cummings, Gusikowski and Jacobs",
+    "brandName": "Muffin - Carrot Individual Wrap",
+    "address": "Room 577",
+    "brandStatus": "pending",
+    "category": "Red Meat",
+    "createdAt": "2022-09-21T02:40:15Z"
+  },
+  {
+    "companyName": "D'Amore-Turcotte",
+    "brandName": "Cauliflower",
+    "address": "Apt 353",
+    "brandStatus": "cancelled",
+    "category": "Red Meat",
+    "createdAt": "2022-10-18T10:36:38Z"
+  },
+  {
+    "companyName": "Auer-Rutherford",
+    "brandName": "Pheasants - Whole",
+    "address": "Suite 51",
+    "brandStatus": "confirmed",
+    "category": "Red Meat",
+    "createdAt": "2022-08-16T03:15:14Z"
+  },
+  {
+    "companyName": "Dickens, Block and Olson",
+    "brandName": "Cranberry Foccacia",
+    "address": "6th Floor",
+    "brandStatus": "expired",
+    "category": "White Meat",
+    "createdAt": "2023-07-20T04:22:05Z"
+  },
+  {
+    "companyName": "Bahringer, Dooley and Batz",
+    "brandName": "Spinach - Packaged",
+    "address": "2nd Floor",
+    "brandStatus": "expired",
+    "category": "Fruit Juice",
+    "createdAt": "2022-08-22T10:55:55Z"
+  },
+  {
+    "companyName": "Hermann-Pfannerstill",
+    "brandName": "Bread - Bagels, Plain",
+    "address": "Suite 99",
+    "brandStatus": "pending",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2023-05-21T09:21:24Z"
+  },
+  {
+    "companyName": "Schaefer, Yost and Watsica",
+    "brandName": "Wine - White, Schroder And Schyl",
+    "address": "Suite 50",
+    "brandStatus": "cancelled",
+    "category": "Red Meat",
+    "createdAt": "2023-03-12T08:57:41Z"
+  },
+  {
+    "companyName": "O'Conner and Sons",
+    "brandName": "Veal - Eye Of Round",
+    "address": "Apt 395",
+    "brandStatus": "expired",
+    "category": "Red Meat",
+    "createdAt": "2022-11-01T21:21:36Z"
+  },
+  {
+    "companyName": "Bauch, Christiansen and Howell",
+    "brandName": "Pork Ham Prager",
+    "address": "Room 1899",
+    "brandStatus": "cancelled",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2023-03-24T14:34:10Z"
+  },
+  {
+    "companyName": "Rau and Sons",
+    "brandName": "Orange - Blood",
+    "address": "Apt 1943",
+    "brandStatus": "pending",
+    "category": "Red Meat",
+    "createdAt": "2023-03-08T05:49:18Z"
+  },
+  {
+    "companyName": "Willms and Sons",
+    "brandName": "Extract Vanilla Pure",
+    "address": "6th Floor",
+    "brandStatus": "cancelled",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2023-07-21T01:21:38Z"
+  },
+  {
+    "companyName": "Greenfelder, Ruecker and Mraz",
+    "brandName": "Sultanas",
+    "address": "Room 1852",
+    "brandStatus": "expired",
+    "category": "White Meat",
+    "createdAt": "2022-10-26T21:06:35Z"
+  },
+  {
+    "companyName": "West, Bergnaum and Parisian",
+    "brandName": "Pickerel - Fillets",
+    "address": "PO Box 12152",
+    "brandStatus": "expired",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2023-03-25T00:47:01Z"
+  },
+  {
+    "companyName": "O'Connell-Von",
+    "brandName": "Oil - Peanut",
+    "address": "Apt 227",
+    "brandStatus": "confirmed",
+    "category": "Fruit Juice",
+    "createdAt": "2023-03-17T21:31:36Z"
+  },
+  {
+    "companyName": "Sawayn-O'Reilly",
+    "brandName": "Beef - Prime Rib Aaa",
+    "address": "PO Box 60308",
+    "brandStatus": "confirmed",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2023-01-02T19:35:13Z"
+  },
+  {
+    "companyName": "Champlin-Wiza",
+    "brandName": "Bread - Malt",
+    "address": "Room 158",
+    "brandStatus": "pending",
+    "category": "Fruit Juice",
+    "createdAt": "2022-10-07T23:20:32Z"
+  },
+  {
+    "companyName": "Lueilwitz Inc",
+    "brandName": "Lamb Shoulder Boneless Nz",
+    "address": "Apt 35",
+    "brandStatus": "confirmed",
+    "category": "Red Meat",
+    "createdAt": "2022-08-28T02:55:28Z"
+  },
+  {
+    "companyName": "Bechtelar-Mitchell",
+    "brandName": "Calypso - Lemonade",
+    "address": "Suite 13",
+    "brandStatus": "expired",
+    "category": "Fruit Juice",
+    "createdAt": "2022-12-29T04:45:38Z"
+  },
+  {
+    "companyName": "Larkin, Hessel and Goldner",
+    "brandName": "True - Vue Containers",
+    "address": "Apt 1611",
+    "brandStatus": "pending",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2023-03-17T02:17:44Z"
+  },
+  {
+    "companyName": "Green-Kris",
+    "brandName": "Steampan - Foil",
+    "address": "4th Floor",
+    "brandStatus": "cancelled",
+    "category": "White Meat",
+    "createdAt": "2022-10-02T07:39:27Z"
+  },
+  {
+    "companyName": "Huel LLC",
+    "brandName": "Tea - Herbal Sweet Dreams",
+    "address": "Apt 169",
+    "brandStatus": "cancelled",
+    "category": "Fruit Juice",
+    "createdAt": "2023-03-03T12:47:12Z"
+  },
+  {
+    "companyName": "Champlin, Predovic and Hand",
+    "brandName": "Onions - Green",
+    "address": "PO Box 1115",
+    "brandStatus": "pending",
+    "category": "Red Meat",
+    "createdAt": "2022-09-10T00:42:54Z"
+  },
+  {
+    "companyName": "Blick, Batz and Krajcik",
+    "brandName": "Tomatoes - Yellow Hot House",
+    "address": "Room 748",
+    "brandStatus": "expired",
+    "category": "Fruit Juice",
+    "createdAt": "2023-06-25T11:18:15Z"
+  },
+  {
+    "companyName": "Block Inc",
+    "brandName": "Clams - Canned",
+    "address": "Room 1282",
+    "brandStatus": "pending",
+    "category": "Red Meat",
+    "createdAt": "2022-09-05T02:39:08Z"
+  },
+  {
+    "companyName": "Kuhn, Johnston and Cummerata",
+    "brandName": "Wine - Cotes Du Rhone Parallele",
+    "address": "Room 1831",
+    "brandStatus": "pending",
+    "category": "White Meat",
+    "createdAt": "2023-04-30T06:13:58Z"
+  },
+  {
+    "companyName": "Waelchi, Kunde and Baumbach",
+    "brandName": "Cabbage Roll",
+    "address": "20th Floor",
+    "brandStatus": "cancelled",
+    "category": "Red Meat",
+    "createdAt": "2023-01-17T08:43:41Z"
+  },
+  {
+    "companyName": "Pollich-Cronin",
+    "brandName": "Yoghurt Tubes",
+    "address": "10th Floor",
+    "brandStatus": "confirmed",
+    "category": "Red Meat",
+    "createdAt": "2022-11-07T03:52:59Z"
+  },
+  {
+    "companyName": "Kuhn Group",
+    "brandName": "Yogurt - Raspberry, 175 Gr",
+    "address": "PO Box 38703",
+    "brandStatus": "pending",
+    "category": "White Meat",
+    "createdAt": "2023-07-21T10:39:45Z"
+  },
+  {
+    "companyName": "Lockman Inc",
+    "brandName": "Chickhen - Chicken Phyllo",
+    "address": "Room 1259",
+    "brandStatus": "confirmed",
+    "category": "White Meat",
+    "createdAt": "2022-12-08T00:06:17Z"
+  },
+  {
+    "companyName": "Kub and Sons",
+    "brandName": "Cabbage - Red",
+    "address": "13th Floor",
+    "brandStatus": "cancelled",
+    "category": "Fruit Juice",
+    "createdAt": "2022-11-03T21:05:06Z"
+  },
+  {
+    "companyName": "Pacocha-Keebler",
+    "brandName": "Wine - Red, Cabernet Sauvignon",
+    "address": "Apt 585",
+    "brandStatus": "confirmed",
+    "category": "Red Meat",
+    "createdAt": "2023-05-27T16:49:56Z"
+  },
+  {
+    "companyName": "Beier LLC",
+    "brandName": "Dill Weed - Fresh",
+    "address": "8th Floor",
+    "brandStatus": "confirmed",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2023-07-16T09:25:22Z"
+  },
+  {
+    "companyName": "Kozey, Kirlin and Kerluke",
+    "brandName": "Pasta - Linguini, Dry",
+    "address": "16th Floor",
+    "brandStatus": "expired",
+    "category": "Red Meat",
+    "createdAt": "2023-05-16T23:38:59Z"
+  },
+  {
+    "companyName": "Franecki-Pouros",
+    "brandName": "Duck - Breast",
+    "address": "Apt 222",
+    "brandStatus": "cancelled",
+    "category": "White Meat",
+    "createdAt": "2022-10-03T07:24:58Z"
+  },
+  {
+    "companyName": "Shields Group",
+    "brandName": "Pork Salted Bellies",
+    "address": "Room 108",
+    "brandStatus": "confirmed",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2023-04-05T08:58:40Z"
+  },
+  {
+    "companyName": "Effertz Group",
+    "brandName": "Muffin Batt - Carrot Spice",
+    "address": "Apt 376",
+    "brandStatus": "cancelled",
+    "category": "Fruit Juice",
+    "createdAt": "2022-09-21T21:21:03Z"
+  },
+  {
+    "companyName": "Lubowitz-Hegmann",
+    "brandName": "Spice - Pepper Portions",
+    "address": "Room 1443",
+    "brandStatus": "confirmed",
+    "category": "Milk and Dairy Products",
+    "createdAt": "2023-05-06T07:29:08Z"
+  },
+  {
+    "companyName": "Donnelly Group",
+    "brandName": "Flower - Dish Garden",
+    "address": "Room 530",
+    "brandStatus": "cancelled",
+    "category": "Biscuits / Chocolate",
+    "createdAt": "2022-10-31T07:00:55Z"
+  }
+]
