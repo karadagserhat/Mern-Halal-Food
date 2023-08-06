@@ -1,6 +1,6 @@
 # Halal-Food API Documentation
 
-These documents are used for the [halal-food-mern](https://www.halal-food-mern.dev/)
+These documents are used for the [halal-food-mern](https://halal-food-mern.cyclic.app/)
 
 #### Contents
 
@@ -12,13 +12,13 @@ These documents are used for the [halal-food-mern](https://www.halal-food-mern.d
 
 ## 1. Overview
 
-•	Developed food track app that which brands get to halal certificate for food.   
-•	Created  food API which implemented **Node.js** and **MongoDB**   
-•	Implemented authentication with **JSON Web Token** and **Cookie**   
-•	Managed global UI state with **Context API**, manage remote state with **React Query**     
-•	Used React Query for **caching** mechanism  
-•	Handled form submission and data loding with **React Router v6**  
-•	Used tools : Styled-components, React Query, React Router, Express.js, Mongoose, Multer, Cloudinary   
+• Developed food track app that which brands get to halal certificate for food.  
+• Created food API which implemented **Node.js** and **MongoDB**  
+• Implemented authentication with **JSON Web Token** and **Cookie**  
+• Managed global UI state with **Context API**, manage remote state with **React Query**  
+• Used React Query for **caching** mechanism  
+• Handled form submission and data loding with **React Router v6**  
+• Used tools : Styled-components, React Query, React Router, Express.js, Mongoose, Multer, Cloudinary
 
 ## 2. Authentication
 
@@ -29,7 +29,7 @@ In order to view some routes, you will need an access token.
 For the protected routes, firstly you should sign up.
 
 ```
-POST https://www.halal-food-mern.dev/api/v1/auth/register
+POST https://halal-food-mern.cyclic.app/api/v1/auth/register
 ```
 
 The first step, you should send json body. Example body:
@@ -69,7 +69,7 @@ Possible errors:
 ### 2.2. Login
 
 ```
-POST https://www.halal-food-mern.dev/api/v1/auth/login
+POST https://halal-food-mern.cyclic.app/api/v1/auth/login
 ```
 
 The first step, you should send json body. Example body:
@@ -114,7 +114,7 @@ The API is RESTful and arranged around resources. All requests must be made usin
 Returns details of the user who has granted permission to the application.
 
 ```
-GET https://www.halal-food-mern.dev/api/v1/users/current-user
+GET https://halal-food-mern.cyclic.app/api/v1/users/current-user
 ```
 
 The response is a User object within a data envelope. Example response:
@@ -145,7 +145,7 @@ Possible errors:
 Returns a full list of brands. An example request looks like this:
 
 ```
-GET https://www.halal-food-mern.dev/api/v1/brands
+GET https://halal-food-mern.cyclic.app/api/v1/brands
 ```
 
 The response is a list of brands objects. The response array is wrapped in a data envelope. This endpoint will return all brands. Example response:
