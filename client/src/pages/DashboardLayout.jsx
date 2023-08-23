@@ -34,7 +34,7 @@ const DashboardLayout = ({ queryClient }) => {
   const { user } = useQuery(userQuery).data;
 
   const [showSidebar, setShowSidebar] = useState(false);
-  const [isDarkTheme, setIsDarkTheme] = useState(checkDefaultTheme());
+  const [isDarkTheme, setIsDarkTheme] = useState(() => checkDefaultTheme());
   const [isAuthError, setIsAuthError] = useState(false);
 
   const toggleDarkTheme = () => {
