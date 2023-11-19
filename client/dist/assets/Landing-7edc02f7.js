@@ -1,4 +1,4 @@
-import{s as r,j as i,L as a}from"./index-644251b4.js";const e=r.section`
+import{s as r,j as i,L as a}from"./index-43c23cf3.js";const e=r.section`
   background-color: var(--color-grey-100);
 
   nav {
