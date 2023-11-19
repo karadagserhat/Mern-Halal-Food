@@ -7,11 +7,14 @@ const Wrapper = styled.div`
     align-items: center;
     justify-content: center;
     gap: 0 0.5rem;
-    font-size: 1rem;
   }
 
   svg {
     stroke: var(--color-brand-50);
+  }
+
+  .logout-name {
+    display: none;
   }
 
   .img {
@@ -52,8 +55,8 @@ const Wrapper = styled.div`
   }
 
   @media (min-width: 992px) {
-    .logout-btn {
-      font-size: 1.6rem;
+    .logout-name {
+      display: block;
     }
   }
 `;

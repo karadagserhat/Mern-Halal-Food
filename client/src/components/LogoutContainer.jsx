@@ -20,7 +20,7 @@ const LogoutContainer = () => {
           <HiOutlineUserCircle />
         )}
 
-        {user?.name}
+        <span className="logout-name"> {user?.name}</span>
         <HiChevronDown />
       </button>
       <div className={showLogout ? 'dropdown show-dropdown' : 'dropdown'}>
