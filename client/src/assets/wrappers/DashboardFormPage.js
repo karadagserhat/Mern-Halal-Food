@@ -4,6 +4,7 @@ const Wrapper = styled.section`
   width: 100%;
   background: var(--color-grey-100);
   padding: 3rem 2rem 4rem;
+  height: 100vh;
 
   .form-title {
     /* margin: 2rem; */
