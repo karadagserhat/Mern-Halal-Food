@@ -652,6 +652,7 @@ img {
     align-items: center;
     justify-content: center;
     gap: 0 0.5rem;
+    font-size: 1rem;
   }
 
   svg {
@@ -693,6 +694,12 @@ img {
 
   .dropdown-btn:hover {
     background: var(--color-brand-700);
+  }
+
+  @media (min-width: 992px) {
+    .logout-btn {
+      font-size: 1.6rem;
+    }
   }
 `,J5=()=>{const[e,t]=P.useState(!1),{user:r,logoutUser:n}=Jn();return _.jsxs(X5,{children:[_.jsxs("button",{type:"button",className:"btn logout-btn",onClick:()=>t(!e),children:[r.avatar?_.jsx("img",{src:r.avatar,alt:"avatar",className:"img"}):_.jsx(W5,{}),r==null?void 0:r.name,_.jsx(T5,{})]}),_.jsx("div",{className:e?"dropdown show-dropdown":"dropdown",children:_.jsx("button",{type:"button",className:"dropdown-btn",onClick:n,children:"logout"})})]})},Z5=Tt.button`
   background: transparent;
@@ -1139,4 +1146,4 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
 `,vae=()=>_.jsx(mae,{children:_.jsx("div",{className:"loading"})}),yae=Tt.div`
   height: 100vh;
   background-color: var(--color-grey-100);
-`,gae=()=>_.jsx(yae,{children:_.jsx(vae,{})}),bae=P.lazy(()=>zr(()=>import("./HomeLayout-3eac6fcb.js"),[])),wae=P.lazy(()=>zr(()=>import("./Landing-996c1715.js"),[])),xae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>tae),void 0)),Sae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>nae),void 0)),Oae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>O5),void 0)),Aae=P.lazy(()=>zr(()=>import("./Error-abf264c5.js"),[])),Eae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>aae),void 0)),Pae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>pae),void 0)),_ae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>uL),void 0)),Cae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>cae),void 0)),Tae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>dae),void 0)),kae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>sae),void 0)),Bk=()=>{const e=localStorage.getItem("darkTheme")==="true";return document.documentElement.classList.toggle("dark-mode",e),e};Bk();const Gr=new yD({defaultOptions:{queries:{staleTime:1e3*60*5}}}),$ae=LI([{path:"/",element:_.jsx(bae,{}),errorElement:_.jsx(Aae,{}),children:[{index:!0,element:_.jsx(wae,{})},{path:"register",element:_.jsx(xae,{}),action:kk},{path:"login",element:_.jsx(Sae,{}),action:$k(Gr)},{path:"dashboard",element:_.jsx(Oae,{queryClient:Gr}),loader:m_(Gr),children:[{index:!0,element:_.jsx(Eae,{}),action:jk(Gr)},{path:"stats",element:_.jsx(Pae,{}),loader:Fk(Gr),errorElement:_.jsx(IA,{})},{path:"all-brands",element:_.jsx(_ae,{}),loader:P_(Gr),errorElement:_.jsx(IA,{})},{path:"profile",element:_.jsx(Cae,{}),action:Dk(Gr)},{path:"admin",element:_.jsx(Tae,{}),loader:Nk},{path:"edit-brand/:id",element:_.jsx(kae,{}),loader:Ik(Gr),action:Rk(Gr)},{path:"delete-brand/:id",action:lae(Gr)}]}]}]),jae=()=>_.jsxs(MD,{client:Gr,children:[_.jsx(QD,{initialIsOpen:!1}),_.jsx(rD,{}),_.jsx(P.Suspense,{fallback:_.jsx(gae,{}),children:_.jsx(VI,{router:$ae})})]});bm.createRoot(document.getElementById("root")).render(_.jsxs(k.StrictMode,{children:[_.jsx(jae,{}),_.jsx(_v,{position:"top-center",autoClose:2500})]}));export{Oa as L,AI as O,_ as j,Tt as s,uP as u};
+`,gae=()=>_.jsx(yae,{children:_.jsx(vae,{})}),bae=P.lazy(()=>zr(()=>import("./HomeLayout-d562beaf.js"),[])),wae=P.lazy(()=>zr(()=>import("./Landing-86fe60a7.js"),[])),xae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>tae),void 0)),Sae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>nae),void 0)),Oae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>O5),void 0)),Aae=P.lazy(()=>zr(()=>import("./Error-42cf91c1.js"),[])),Eae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>aae),void 0)),Pae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>pae),void 0)),_ae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>uL),void 0)),Cae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>cae),void 0)),Tae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>dae),void 0)),kae=P.lazy(()=>zr(()=>Promise.resolve().then(()=>sae),void 0)),Bk=()=>{const e=localStorage.getItem("darkTheme")==="true";return document.documentElement.classList.toggle("dark-mode",e),e};Bk();const Gr=new yD({defaultOptions:{queries:{staleTime:1e3*60*5}}}),$ae=LI([{path:"/",element:_.jsx(bae,{}),errorElement:_.jsx(Aae,{}),children:[{index:!0,element:_.jsx(wae,{})},{path:"register",element:_.jsx(xae,{}),action:kk},{path:"login",element:_.jsx(Sae,{}),action:$k(Gr)},{path:"dashboard",element:_.jsx(Oae,{queryClient:Gr}),loader:m_(Gr),children:[{index:!0,element:_.jsx(Eae,{}),action:jk(Gr)},{path:"stats",element:_.jsx(Pae,{}),loader:Fk(Gr),errorElement:_.jsx(IA,{})},{path:"all-brands",element:_.jsx(_ae,{}),loader:P_(Gr),errorElement:_.jsx(IA,{})},{path:"profile",element:_.jsx(Cae,{}),action:Dk(Gr)},{path:"admin",element:_.jsx(Tae,{}),loader:Nk},{path:"edit-brand/:id",element:_.jsx(kae,{}),loader:Ik(Gr),action:Rk(Gr)},{path:"delete-brand/:id",action:lae(Gr)}]}]}]),jae=()=>_.jsxs(MD,{client:Gr,children:[_.jsx(QD,{initialIsOpen:!1}),_.jsx(rD,{}),_.jsx(P.Suspense,{fallback:_.jsx(gae,{}),children:_.jsx(VI,{router:$ae})})]});bm.createRoot(document.getElementById("root")).render(_.jsxs(k.StrictMode,{children:[_.jsx(jae,{}),_.jsx(_v,{position:"top-center",autoClose:2500})]}));export{Oa as L,AI as O,_ as j,Tt as s,uP as u};

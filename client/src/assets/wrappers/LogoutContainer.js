@@ -7,6 +7,7 @@ const Wrapper = styled.div`
     align-items: center;
     justify-content: center;
     gap: 0 0.5rem;
+    font-size: 1rem;
   }
 
   svg {
@@ -48,6 +49,12 @@ const Wrapper = styled.div`
 
   .dropdown-btn:hover {
     background: var(--color-brand-700);
+  }
+
+  @media (min-width: 992px) {
+    .logout-btn {
+      font-size: 1.6rem;
+    }
   }
 `;
 
