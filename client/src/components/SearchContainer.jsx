@@ -1,5 +1,5 @@
 import { FormRow, FormRowSelect } from '.';
-import Wrapper from '../assets/wrappers/DashboardFormPage';
+import Wrapper from '../assets/wrappers/SearchDashboardFormPage';
 import { Form, useSubmit, Link } from 'react-router-dom';
 import { CATEGORY, BRAND_STATUS, BRAND_SORT_BY } from '../utils/constants';
 import { useAllBrandsContext } from '../pages/AllBrands';

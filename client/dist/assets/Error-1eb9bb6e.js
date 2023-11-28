@@ -1,4 +1,4 @@
-import{s as n,u as s,j as r,L as o}from"./index-43c23cf3.js";const t=n.main`
+import{s as n,u as s,j as r,L as o}from"./index-e240de2f.js";const t=n.main`
   background-color: var(--color-grey-100);
   min-height: 100vh;
   text-align: center;
